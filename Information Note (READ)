@@ -1,0 +1,5 @@
+# Flashing_Grid_Experiment_V.1
+The original basic code for the flashing grid task
+
+I uploaded the two main files for this code. Also, Rememeber that when you run the code you have to put these files into a folder that ALSO 
+contains a foler called "Flash_Grid_Results", where the data will be saved. Otherwise, the results from the experiment won't be saved anywhere and you'll get these funny error msgs at the end of the task.
